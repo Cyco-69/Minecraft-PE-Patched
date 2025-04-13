@@ -3,7 +3,7 @@
 **About**
  - Minecraft Pocket Edition Patch in which you can run pre 1.18.30 shaders you will get free latest updates
 
- ## How to Download
+## How to Download
 
  - To download MCPE Go to releases you will find an update with a latest tag. open it and down you will see some files.
  click the file that doesn't say source code click on it you will download a file.
@@ -19,3 +19,9 @@
    3. Tap on the Extracted APK and tap the arrow beside Open or View option.
    4. Click install after opening the APK.
    5. Enjoy.
+
+## Additional Stuff
+ 
+ - Download Some Shaders Below to fully experience MCPE Patch:
+  
+  1. 
